@@ -20,3 +20,6 @@ jugador piedra y computador papel; jugador tijera y computador piedra; jugador p
 empate
 ganaste
 perdiste
+
+# DISEÑO 
+![diagrama de flujo](diagrama.png "diagrama de flujo")
